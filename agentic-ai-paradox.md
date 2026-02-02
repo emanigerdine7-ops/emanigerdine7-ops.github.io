@@ -78,3 +78,35 @@ The Bottom Line
 The TEKsystems article serves as a wake-up call for leaders who think they’ve already "solved" their AI strategy. If your strategy is only focused on Large Language Models (LLMs) and chatbots, you’re missing the engine that will actually drive the next decade of business modernization.
 
 The goal isn't just to have an AI that can talk to us. The goal is to have an AI that can work with us—and for us.
+---
+layout: post
+title: "The Recovery Room: Where Agency Meets Anatomy"
+date: 2026-02-02
+categories: [ENGL170, Physical Therapy]
+---
+
+## Reclaiming Power Through Movement
+
+When people think of Physical Therapy, they usually think of ice packs, resistance bands, and a bit of "good pain." But after watching my mom navigate her knee surgeries, I realized PT is actually a masterclass in **human agency**.
+
+In my ENGL 170 class, we talk a lot about the **"Agency Paradox"**—the idea of having power over our choices while being shaped by forces outside our control. There is no better place to see this in action than a rehabilitation clinic.
+
+### The Paradox of Healing
+When you’re injured, your body feels like it’s betrayed you. You’ve lost the *agency* to do simple things, like walk up a flight of stairs or carry groceries. You are limited by biology and the strict "system" of recovery. 
+
+However, the "paradox" is that to regain that power, you have to submit to a process. You have to trust a therapist and follow a rigid protocol to eventually win back your independence. 
+
+### Connecting the Sciences
+My current coursework highlights this paradox every day:
+* **Kinesiology & Biomechanics:** We study the "mechanical" limits of the body. Even if your mind *wants* to jump, your bones and tendons have their own rules. Agency is restricted by physics.
+* **Statistics:** In PT, we look at "probability of recovery." Statistics tell us what is likely to happen (the external force), but the patient’s individual effort (their agency) is the variable that can change the outcome.
+
+### Why I’m Choosing This Path
+Seeing my mom show up to every appointment taught me that agency isn't just about doing whatever you want; it’s about the **will to work through limitations**. 
+
+I want to be a Physical Therapist because I want to be the person who helps others reclaim their agency. I want to help people transition from:
+* *"I can't move my leg."*
+* To *"I am moving my leg."*
+* To *"I am choosing where I walk today."*
+
+Physical therapy is more than just fixing bones and muscles; it’s about restoring the power of the individual. As I continue building this blog, I’m realizing that my career goals and my classwork are much more connected than I originally thought.
