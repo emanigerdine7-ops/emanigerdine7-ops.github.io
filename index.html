@@ -92,3 +92,45 @@
     {% endfor %}
   </ul>
 </section>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+</head>
+<body>
+
+    <header>
+        <h1>{{ site.title }}</h1>
+        <p>By {{ site.author }} | {{ site.university }}</p>
+    </header>
+
+    <main>
+        <section id="posts">
+            <h2>Latest Insights</h2>
+            <ul>
+                {% for post in site.posts %}
+                <li>
+                    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                    <small>— {{ post.date | date: "%B %d, %Y" }}</small>
+                </li>
+                {% endfor %}
+            </ul>
+        </section>
+
+        <hr>
+
+        <section id="spotlight">
+            <h3>Featured Project: CeraVe Rhetorical Analysis</h3>
+            <p>Analysis of "Clear Acne and Prevent New Breakouts" for {{ site.course }}[cite: 8, 54].</p>
+            <ul>
+                <li><strong>Pathos:</strong> Emotional liberation from insecurity[cite: 16, 18].</li>
+                <li><strong>Ethos:</strong> Credibility via dermatologist collaboration[cite: 8, 24].</li>
+                <li><strong>Logos:</strong> Logical appeal through implied science[cite: 30, 31].</li>
+            </ul>
+        </section>
+    </main>
+
+</body>
+</html>
