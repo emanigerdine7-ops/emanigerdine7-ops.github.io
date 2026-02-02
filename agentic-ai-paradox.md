@@ -76,37 +76,30 @@ Instead of waiting years to train a mid-level threat analyst to hunt through 150
 The Bottom Line
 
 The TEKsystems article serves as a wake-up call for leaders who think they’ve already "solved" their AI strategy. If your strategy is only focused on Large Language Models (LLMs) and chatbots, you’re missing the engine that will actually drive the next decade of business modernization.
-
-The goal isn't just to have an AI that can talk to us. The goal is to have an AI that can work with us—and for us.
 ---
 layout: post
-title: "The Recovery Room: Where Agency Meets Anatomy"
-date: 2026-02-02
-categories: [ENGL170, Physical Therapy]
+title: "The Agency Paradox: Choosing My Path"
+date: 2026-01-16
+categories: [ENGL170, Introduction]
 ---
 
-## Reclaiming Power Through Movement
+## What is the Agency Paradox?
 
-When people think of Physical Therapy, they usually think of ice packs, resistance bands, and a bit of "good pain." But after watching my mom navigate her knee surgeries, I realized PT is actually a masterclass in **human agency**.
+In my ENGL 170 class, we are exploring the **Agency Paradox**. At its simplest, agency is our ability to act and make choices. The "paradox" is that while we think we are in total control, our choices are often shaped by our environment, our families, and even our biology.
 
-In my ENGL 170 class, we talk a lot about the **"Agency Paradox"**—the idea of having power over our choices while being shaped by forces outside our control. There is no better place to see this in action than a rehabilitation clinic.
+### My Personal Connection
+When I first heard this term, I immediately thought of my journey toward becoming a **Physical Therapist**. 
 
-### The Paradox of Healing
-When you’re injured, your body feels like it’s betrayed you. You’ve lost the *agency* to do simple things, like walk up a flight of stairs or carry groceries. You are limited by biology and the strict "system" of recovery. 
+I didn't just wake up one day and decide on this career out of nowhere. My agency was shaped by a major life event: my mother's knee surgeries. Being there for her appointments and watching her work to regain her mobility was the "external force" that guided my "internal choice."
 
-However, the "paradox" is that to regain that power, you have to submit to a process. You have to trust a therapist and follow a rigid protocol to eventually win back your independence. 
 
-### Connecting the Sciences
-My current coursework highlights this paradox every day:
-* **Kinesiology & Biomechanics:** We study the "mechanical" limits of the body. Even if your mind *wants* to jump, your bones and tendons have their own rules. Agency is restricted by physics.
-* **Statistics:** In PT, we look at "probability of recovery." Statistics tell us what is likely to happen (the external force), but the patient’s individual effort (their agency) is the variable that can change the outcome.
 
-### Why I’m Choosing This Path
-Seeing my mom show up to every appointment taught me that agency isn't just about doing whatever you want; it’s about the **will to work through limitations**. 
+### The Paradox in the Clinic
+In Physical Therapy, the paradox is everywhere:
+1. **The Body's Limits:** A patient has the *will* to walk (agency), but their injured anatomy is an "external" constraint they cannot simply ignore.
+2. **The Role of the Guide:** As a future PT, I will be an external force in my patients' lives. My job is to give them the tools to regain their own agency.
 
-I want to be a Physical Therapist because I want to be the person who helps others reclaim their agency. I want to help people transition from:
-* *"I can't move my leg."*
-* To *"I am moving my leg."*
-* To *"I am choosing where I walk today."*
+### Why This Matters for My Blog
+This page, which I've titled **"The Agency Paradox,"** is where I will document my growth as a student and a future professional. Whether I'm studying **Kinesiology**, tackling **Statistics** homework, or learning about **Nutrition**, I am constantly looking at how we can overcome the things that limit us.
 
-Physical therapy is more than just fixing bones and muscles; it’s about restoring the power of the individual. As I continue building this blog, I’m realizing that my career goals and my classwork are much more connected than I originally thought.
+Through this blog, I want to show that even when we are facing a "paradox"—where we feel stuck or limited—we still have the power to move forward.
