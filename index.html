@@ -134,3 +134,17 @@
 
 </body>
 </html>
+<section id="blog-feed" style="max-width: 800px; margin: auto; font-family: sans-serif;">
+  <h2>Recent Posts & Academic Analysis</h2>
+  <ul style="list-style: none; padding: 0;">
+    {% for post in site.posts %}
+      <li style="margin-bottom: 20px; border-left: 4px solid #007bff; padding-left: 15px;">
+        <span style="font-size: 0.8em; color: #666;">{{ post.date | date: "%B %d, %Y" }}</span><br>
+        <a href="{{ post.url | relative_url }}" style="text-decoration: none; font-weight: bold; font-size: 1.2em; color: #007bff;">
+          {{ post.title }}
+        </a>
+        <p style="margin: 5px 0; color: #333;">{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+</section>
